@@ -1,4 +1,4 @@
-@dev_containers_example_HostAddress = http://localhost:5157
+@dev_containers_example_HostAddress = http://localhost:9999
 
 GET {{dev_containers_example_HostAddress}}/weatherforecast/
 Accept: application/json
