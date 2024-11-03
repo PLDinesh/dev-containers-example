@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fd7eJEGMG0K+LevwPPt7XSI2eIq9FVIafZrn6zduueA=",
+  "Source": "dev-containers-example",
+  "BasePath": "_content/dev-containers-example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
